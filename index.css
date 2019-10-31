@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+}
+h1{
+    color: brown;
+}
+h2{
+    color:rgb(155, 94, 94);
+    border: 4px dotted blue;
+}
+#image1{
+    widows: 200px;
+    height: 200px;
+}
+#main-section, #contact-section{
+    float: left;
+}
+
+/* here I'm using a class to apply CSS to elements (only one in this instance */
+.emphasizeThis{
+    color: red
+}
+p{
+    font-weight: 900;
+    font-family: "Times New Roman"
+}
+        
